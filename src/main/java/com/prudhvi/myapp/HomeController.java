@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
 /*
- * I am writing a comment*/
+ * Removing Comment*/
 /**
  * Handles requests for the application home page.
  */
